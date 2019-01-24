@@ -1,4 +1,4 @@
-# Corrections for the Book "Stylish F#" by Kit Eason, Apress, 2018
+# Corrections and Proposed Additions for the Book "Stylish F#" by Kit Eason, Apress, 2018
 
 https://www.apress.com/us/book/9781484239995
 
@@ -6,6 +6,8 @@ This repo contains corrections for the book "Stylish F". If you see a typo or co
 please submit a PR here.
 
 ---
+
+## Corrections
 
 #### Chapter 4, page 93, Recommendations
 
@@ -30,5 +32,44 @@ please submit a PR here.
 ```fsharp
 // Requires the version of ConsolePrompt from Listing 8-11
 ```
-
 ---
+
+## Additions
+
+##### F# 4.6
+
+###### Anonymous Record Types
+
+- Add new section to Chapter 7 to cover anonymous record types:
+
+
+-- Instantiation
+
+
+-- Consumption
+
+
+-- Performance
+
+
+-- Structs
+
+
+-- Serialization
+
+
+-- LINQ
+
+- Amend existing commentary on long tuples in pipelines to include the
+possibility of using anonymous record types.
+
+See this for style comments: https://blogs.msdn.microsoft.com/dotnet/2019/01/24/announcing-f-4-6-preview/
+
+###### ValueOption extensions
+
+Delete/amend the para beginning *At the time of writing...* on p.55.
+
+
+###### tryExactlyOne
+
+Consider adding to Chapter 4.
