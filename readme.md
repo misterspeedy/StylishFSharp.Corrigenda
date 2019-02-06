@@ -36,6 +36,10 @@ please submit a PR here. Changes will be incorporated in the next edition when p
 
 ## Additions
 
+##### Chapter 3 - Missing Data
+
+- Add new section on `Option.orElse`.
+
 ##### F# 4.6
 
 ###### Anonymous Record Types
