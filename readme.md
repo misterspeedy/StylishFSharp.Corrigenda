@@ -49,6 +49,16 @@ records as interfaces.
 
 - Add new section on `Option.orElse`.
 
+##### Type Providers
+
+Consider adding a section on type providers.
+
+- SQL
+- CSV
+- CSV versus CSVFile
+- Sampling issues
+- JSON
+
 ##### F# 4.6
 
 ###### Anonymous Record Types
