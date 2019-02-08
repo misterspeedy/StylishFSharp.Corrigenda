@@ -19,6 +19,10 @@ please submit a PR here. Changes will be incorporated in the next edition when p
 
 > I want the average of **the** largest three
 
+#### Chapter 6, page 143, Listing 6-28
+
+`Some s` is incorrectly indented.
+
 #### Chapter 7, page 168
 
 Worth pointing out that `Fable.Remoting` makes nice use of
