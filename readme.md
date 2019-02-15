@@ -46,6 +46,10 @@ records as interfaces.
 
 The typographic quotes in the listing have incorrectly been replaced with neutral quotes.
 
+##### Chapter 13, Page 359
+
+Remove paragraph saying that it would now be a good time to rurun the code.
+
 ---
 
 ## Additions
