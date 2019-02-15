@@ -42,11 +42,11 @@ records as interfaces.
 // Requires the version of ConsolePrompt from Listing 8-11
 ```
 
-##### Chapter 9, Page 241, Listing 9-14
+#### Chapter 9, Page 241, Listing 9-14
 
 The typographic quotes in the listing have incorrectly been replaced with neutral quotes.
 
-##### Chapter 13, Page 359
+#### Chapter 13, Page 359
 
 Remove paragraph saying that it would now be a good time to rurun the code.
 
@@ -54,11 +54,11 @@ Remove paragraph saying that it would now be a good time to rurun the code.
 
 ## Additions
 
-##### Chapter 3 - Missing Data
+#### Chapter 3 - Missing Data
 
 - Add new section on `Option.orElse`.
 
-##### Type Providers
+#### Type Providers
 
 Consider adding a section on type providers.
 
@@ -68,9 +68,9 @@ Consider adding a section on type providers.
 - Sampling issues
 - JSON
 
-##### F# 4.6
+#### F# 4.6
 
-###### Anonymous Record Types
+##### Anonymous Record Types
 
 - Add new section to Chapter 7 to cover anonymous record types:
 
