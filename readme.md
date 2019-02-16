@@ -2,8 +2,7 @@
 
 https://www.apress.com/us/book/9781484239995
 
-This repo contains corrections and potential additions for the book "Stylish F". If you see a typo or code mistake,
-please submit a PR here. Changes will be incorporated in the next edition when possible.
+This repo contains corrections and potential additions for the book "Stylish F". If you see a typo or code mistake, or would like to suggest additional or revised content, please submit a PR here. Changes will be incorporated in the next edition when possible.
 
 ---
 
