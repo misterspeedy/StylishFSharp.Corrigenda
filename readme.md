@@ -58,6 +58,10 @@ Remove paragraph saying that it would now be a good time to rurun the code.
 
 - Add new section on `Option.orElse`.
 
+#### Chapter 10 - Asynchronous and Parallel Programming
+
+- Add new section on `TaskBuilder.fs`: https://github.com/rspeele/TaskBuilder.fs/blob/master/TaskBuilder.fs
+
 #### Type Providers
 
 Consider adding a section on type providers.
