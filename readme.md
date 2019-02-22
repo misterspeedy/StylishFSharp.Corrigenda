@@ -57,6 +57,10 @@ Remove paragraph saying that it would now be a good time to rurun the code.
 
 - Add new section on `Option.orElse`.
 
+#### Chapter 4 - Working Effectively with Collection Functions
+
+- Add a cross reference between LINQ naming and F# name - e.g. SelectMany -> collect
+
 #### Chapter 10 - Asynchronous and Parallel Programming
 
 - Add new section on `TaskBuilder.fs`: https://github.com/rspeele/TaskBuilder.fs/blob/master/TaskBuilder.fs
