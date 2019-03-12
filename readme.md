@@ -18,6 +18,16 @@ This repo contains corrections and potential additions for the book "Stylish F".
 
 > I want the average of **the** largest three
 
+#### Chapter 5, page 100
+
+*Currently reads:*
+
+> ...keep updating it if it the...
+
+*Should read:*
+
+> ...keep updating it if the...
+
 #### Chapter 6, page 143, Listing 6-28
 
 `Some s` is incorrectly indented.
