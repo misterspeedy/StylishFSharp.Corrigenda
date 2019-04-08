@@ -37,6 +37,8 @@ This repo contains corrections and potential additions for the book "Stylish F".
 Worth pointing out that `Fable.Remoting` makes nice use of
 records as interfaces.
 
+Make the point that using interfaces rather than records-as-functions is an example of motivational transparency.
+
 #### Chapter 8, page 196, Listing 8-11
 
 *Currently reads:*
