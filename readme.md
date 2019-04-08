@@ -51,6 +51,10 @@ records as interfaces.
 // Requires the version of ConsolePrompt from Listing 8-11
 ```
 
+#### Chapter 8, Page 202, "Interfaces"
+
+Need to amend this section to reflect the fact that you can have parameter names in interface definitions.
+
 #### Chapter 9, Page 241, Listing 9-14
 
 The typographic quotes in the listing have incorrectly been replaced with neutral quotes.
