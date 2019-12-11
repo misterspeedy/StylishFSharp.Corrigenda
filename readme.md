@@ -77,6 +77,10 @@ Remove paragraph saying that it would now be a good time to rurun the code.
 
 - Add a cross reference between LINQ naming and F# name - e.g. SelectMany -> collect
 
+#### Chapter 6 - Pattern Matching
+
+- Add something about the `KeyValuePair` active pattern, especially when working with dictionaries/maps.
+
 #### Chapter 10 - Asynchronous and Parallel Programming
 
 - Add new section on `TaskBuilder.fs`: https://github.com/rspeele/TaskBuilder.fs/blob/master/TaskBuilder.fs
