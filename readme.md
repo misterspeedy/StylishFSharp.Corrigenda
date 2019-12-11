@@ -8,6 +8,10 @@ This repo contains corrections and potential additions for the book "Stylish F".
 
 ## Corrections
 
+#### Chatper 4, ppage 65
+
+Is `unfold` really an example starting with nothing?
+
 #### Chapter 4, page 93, Recommendations
 
 *Currently reads:*
