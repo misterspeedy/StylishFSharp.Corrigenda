@@ -65,6 +65,10 @@ Need to amend this section to reflect the fact that you can have parameter names
 
 The typographic quotes in the listing have incorrectly been replaced with neutral quotes.
 
+#### Chapter 10, Page 267
+
+Change "highly questionable, main wiring" to "highly questionable mains wiring".
+
 #### Chapter 13, Page 359
 
 Remove paragraph saying that it would now be a good time to rurun the code.
