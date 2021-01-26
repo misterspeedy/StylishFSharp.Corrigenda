@@ -32,6 +32,10 @@ Is `unfold` really an example starting with nothing?
 
 > ...keep updating it if the...
 
+#### Chapter 6, page 142
+
+"...as the real (government endorsed!) as one is..." -- delete the second "as".
+
 #### Chapter 6, page 143, Listing 6-28
 
 `Some s` is incorrectly indented.
